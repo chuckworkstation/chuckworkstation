@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles Ebong
 =====================================================================================================================================
 
-Cloud / DevOps Engineer/ Web Developer
+Cloud Admin/ DevOps Engineer/ Web Developer
 -----------------------
 
-"Cloud architect by day, software developer and DevOps Batman by night. Developing New softwares and Transforming ideas into scalable, resilient, and secure cloud solutions on AWS and Azure. Automating the future, one line of code at a time. ☁️🚀 #AWSCloud #DevOps #CodeCraftsman"
+"Cloud admin by day, software developer and DevOps Batman by night. Developing New softwares and Transforming ideas into scalable, resilient, and secure cloud solutions on AWS and Azure. Automating the future, one line of code at a time. ☁️🚀# Azure #AWSCloud #DevOps #Cloud_Admin"
 
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charles-ebong-04991625a/)
