@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud / DevOps Engineer/ Web Developer
 -----------------------
 
-"Cloud architect by day, software developer and DevOps Batman by night. Developing New softwares and Transforming ideas into scalable, resilient, and secure cloud solutions on AWS. Automating the future, one line of code at a time. ☁️🚀 #AWSCloud #DevOps #CodeCraftsman"
+"Cloud architect by day, software developer and DevOps Batman by night. Developing New softwares and Transforming ideas into scalable, resilient, and secure cloud solutions on AWS and Azure. Automating the future, one line of code at a time. ☁️🚀 #AWSCloud #DevOps #CodeCraftsman"
 
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/charles-ebong-04991625a/)
 * ✉️  You can contact me at [charles.ebong@yahoo.fr](mailto:charles.ebong@yahoo.fr)
-* 🧠  I'm learning DevOps and AWS
+* 🧠  I'm learning DevOps Azure and AWS
 * 🤝  I'm open to collaborating on Interesting and Challenging projects
 * ⚡  Street soccer Legend ...Gooner For life #ARSENALFC
 
