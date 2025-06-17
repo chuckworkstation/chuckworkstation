@@ -20,7 +20,7 @@
 
  [Building Cyber security Lab From Scratch](https://github.com/chuckworkstation/Building-Cyber-security-Lab-From-Scratch/blob/main/README.md))
  
- [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+ [Active Directory Home Lab](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
  
  [Configuring Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
