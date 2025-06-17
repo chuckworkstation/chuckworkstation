@@ -22,30 +22,30 @@
  
  [Active Directory Home Lab](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
  
- [Configuring Microsoft Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
+ [Configuring Microsoft Sentinel]()
 
- [Create a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
+ [Create a File Integrity Monitor]()
 
- [Build a Simple REST API](https://github.com/joshmadakor1/Algorithms-Practice)    
+ [Build a Simple REST API]()    
 
- [Sniffing Network Traffic with Wireshark/TCPdump](https://github.com/joshmadakor1/Sentinel-Lab)
+ [Sniffing Network Traffic with Wireshark/TCPdump]()
      
 
- [System, Port & Vulnerability Discovery with Nmap](https://github.com/joshmadakor1/EncrypterPOC)
+ [System, Port & Vulnerability Discovery with Nmap]()
  
- [Performing Vulnerability Scanning with Nessus](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ [Performing Vulnerability Scanning with Nessus]()
  
- [Mitre ATT&CK (Attack Navigator & DeTTECT)](https://github.com/joshmadakor1/EncrypterPOC)
+ [Mitre ATT&CK (Attack Navigator & DeTTECT)]()
  
- [Application Control with AppLocker](https://github.com/joshmadakor1/EncrypterPOC)
+ [Application Control with AppLocker]()
  
 
- [Password Cracking w/ John the Ripper and Hashca](https://github.com/joshmadakor1/EncrypterPOC)
+ [Password Cracking w/ John the Ripper and Hashca]()
     
 
- [Security Onion LabSetup](https://github.com/joshmadakor1/EncrypterPOC)
+ [Security Onion LabSetup]()
  
- [Incident Response with Security Onion Cases](https://github.com/joshmadakor1/EncrypterPOC)
+ [Incident Response with Security Onion Cases]()
 
 <h2>Certifications</h2>
 
