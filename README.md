@@ -52,7 +52,13 @@
 - <b>CompTIA Security+ ce Certification( https://share.google/ZtKgDF5AFBaFuWnTc )</b>
 
 - <b>AWS Certified Solutions Architect – Associate (https://share.google/f6XiHR8wOUb84zwAO )</b>
-  
-  
+
+<h2>👨‍💻 Education:</h2>
+
+<b>Minnesota State University - Mankato
+
+Completed 33 credits in total, with 12 credits (cumulative) in Introduction to Computer & Applications, Fundamentals of Communication and Introduction to Information Systems(https://www.mnsu.edu/)
+
+<b>Juris doctor, University of Buea, Cameroon (https://www.ubuea.cm/)</b>
 
 
