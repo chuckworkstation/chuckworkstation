@@ -18,7 +18,7 @@
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 
- [Building Cyber security Lab From Scratch](https://github.com/joshmadakor1/Algorithms-Practice)
+ [Building Cyber security Lab From Scratch](https://github.com/chuckworkstation/Building-Cyber-security-Lab-From-Scratch/blob/main/README.md))
  
  [Active Directory Home Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
