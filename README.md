@@ -20,7 +20,7 @@
 
  [Building Cyber security Lab From Scratch](https://github.com/chuckworkstation/Building-Cyber-security-Lab-From-Scratch/blob/main/README.md))
  
- [Active Directory Home Lab](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
+ [Configure Active Directory in Azure VM](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
  
  [Configuring Microsoft Sentinel]()
 
