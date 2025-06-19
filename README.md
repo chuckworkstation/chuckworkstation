@@ -22,7 +22,7 @@
  
  [Configure Active Directory in Azure VM](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
  
- [Configuring Microsoft Sentinel.Cloud Native SIEM]()
+ [Configuring Microsoft Sentinel.Cloud Native SIEM](https://github.com/chuckworkstation/Azure-Sentinel)
 
  [Create a File Integrity Monitor]()
 
