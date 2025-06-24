@@ -22,7 +22,7 @@
  
  [Configure Active Directory in Azure VM](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
  
- [ Real-Time Threat Detection with Microsoft Sentinel]()
+ [ Real-Time Threat Detection with Microsoft Sentinel](https://github.com/chuckworkstation/Home-SOC-Lab-in-Azure-Real-Time-Threat-Detection-with-Microsoft-Sentinel)
 
  [Create a File Integrity Monitor]()
 
