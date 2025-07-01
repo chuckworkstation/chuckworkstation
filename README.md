@@ -24,7 +24,7 @@ Each project is designed to enhance real-world skills and demonstrate the applic
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/chuckworkstation/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 - **[System, Port & Vulnerability Discovery with Nmap](https://github.com/yourusername/nmap-discovery-project)**  
