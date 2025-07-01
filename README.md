@@ -21,56 +21,43 @@ Welcome to my cybersecurity lab portfolio! This repository highlights hands-on p
 
 Each project is designed to enhance real-world skills and demonstrate the application of cybersecurity tools and techniques.
 
----
 
-## 🔍 Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
-Projects focused on identifying and mitigating system weaknesses.
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-- **System, Port & Vulnerability Discovery with Nmap**  
-  Used Nmap to discover open ports and services across hosts for vulnerability assessment.
+- **[System, Port & Vulnerability Discovery with Nmap](https://github.com/yourusername/nmap-discovery-project)**  
+- **[Performing Vulnerability Scanning with Nessus](https://github.com/yourusername/nessus-vulnerability-scanning)**  
+- **[Password Cracking w/ John the Ripper and Hashcat](https://github.com/yourusername/password-cracking-tools)**  
+- **[Application Control with AppLocker](https://github.com/yourusername/applocker-control-demo)**  
+- **[Build a Simple REST API (Secure Coding Practice)](https://github.com/yourusername/rest-api-security-lab)**  
+- **[Mitre ATT&CK with Navigator & DeTTECT](https://github.com/yourusername/mitre-attck-navigator)**  
+- **[Create a File Integrity Monitor](https://github.com/yourusername/file-integrity-monitor)**  
 
-- **Performing Vulnerability Scanning with Nessus**  
-  Configured and ran scans using Nessus to identify CVEs across networked systems.
+## 🚨 Threat Hunting and Security Operations
 
-- **Password Cracking w/ John the Ripper and Hashcat**  
-  Demonstrated brute-force and dictionary attacks on password hashes.
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
+- **[Configure Active Directory in Azure VM](https://github.com/yourusername/azure-ad-lab)**  
+- **[Real-Time Threat Detection with Microsoft Sentinel](https://github.com/yourusername/sentinel-threat-detection)**  
+- **[Sniffing Network Traffic with Wireshark/TCPdump](https://github.com/yourusername/network-traffic-analysis)**  
+- **[Security Onion Lab Setup](https://github.com/yourusername/security-onion-lab)**  
+- **[Incident Response with Security Onion Cases](https://github.com/yourusername/security-onion-response)**  
 
-- **Application Control with AppLocker**  
-  Configured Windows AppLocker to restrict executable access and prevent unauthorized app usage.
 
-- **Build a Simple REST API**  
-  Developed a basic REST API to test common web vulnerabilities and secure coding practices.
 
-- **Mitre ATT&CK (Attack Navigator & DeTTECT)**  
-  Mapped adversary behavior using ATT&CK Navigator and prioritized defensive coverage with DeTTECT.
 
-- **Create a File Integrity Monitor**  
-  Built a FIM to track unauthorized file changes and generate alerts.
 
----
 
-## 🚨 Security Operations & Incident Response Projects
 
-Projects focused on detection, monitoring, and incident handling.
 
-- **Building Cyber Security Lab From Scratch**  
-  Set up a virtual lab environment to simulate attacks and monitor responses.
 
-- **Configure Active Directory in Azure VM**  
-  Deployed AD on Azure to replicate enterprise identity environments.
 
-- **Real-Time Threat Detection with Microsoft Sentinel**  
-  Ingested logs and built custom KQL queries for real-time detection in Sentinel.
 
-- **Sniffing Network Traffic with Wireshark/TCPdump**  
-  Captured and analyzed packet-level data to identify suspicious activity.
 
-- **Security Onion Lab Setup**  
-  Deployed Security Onion for full packet capture, intrusion detection, and threat hunting.
 
-- **Incident Response with Security Onion Cases**  
-  Investigated alerts and created incident cases with event correlation and analysis.
+
 
 ---
 
