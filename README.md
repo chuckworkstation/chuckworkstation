@@ -4,7 +4,7 @@
 #Cybersecurity #AWSCloud #Azure 
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at (
+* 🖥️  See my portfolio at (www.linkedin.com/in/charles-ebong)
 * ✉️  You can contact me at [charles.ebong@yahoo.fr](mailto:charles.ebong@yahoo.fr)
 - 🔭 I’m currently working on Cyber Security Projects
 - 🌱 I’m currently learning Azure and AWS
