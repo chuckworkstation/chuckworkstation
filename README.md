@@ -54,7 +54,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 
 
 ## 🔐 Identity and Access Management (IAM)  
--**Installing Active Directory on Windows Server on Virtual Machine (Home Lab) 
+- Installing Active Directory on Windows Server on Virtual Machine (Home Lab) 
 
 
 
@@ -84,6 +84,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 - Python, Bash, PowerShell
 - Active Directory
 - okta
+- Entra ID
 ---
 
 ## 📫 Contact
