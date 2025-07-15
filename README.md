@@ -15,14 +15,21 @@
 
 
 
- # 🛡️ Cybersecurity Projects Portfolio
 
-Welcome to my cybersecurity lab portfolio! This repository highlights hands-on projects I've worked on, with a focus on **Vulnerability Management** and **Security Operations & Incident Response**.
+# 🔐 Welcome to my Cybersecurity Lab Portfolio!
 
-Each project is designed to enhance real-world skills and demonstrate the application of cybersecurity tools and techniques.
+This repository highlights hands-on projects I've worked on, with a focus on:
+
+- 🛡️ Vulnerability Management  
+- ⚠️ Threat Hunting and Security Operations 
+- 🔐 Identity and Access Management (IAM)  
+
+Each project is designed to enhance real-world skills and demonstrate the application of cybersecurity tools and techniques across different domains of defensive security. 
+
+Explore practical labs, automation scripts, and simulated enterprise environments built to reinforce knowledge and prepare for real-world roles.
 
 
-## ⚠️ Vulnerability Management Projects
+## 🛡️Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chuckworkstation/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
@@ -35,7 +42,7 @@ Each project is designed to enhance real-world skills and demonstrate the applic
 - **[Mitre ATT&CK with Navigator & DeTTECT](https://github.com/yourusername/mitre-attck-navigator)**  
 - **[Create a File Integrity Monitor](https://github.com/yourusername/file-integrity-monitor)**  
 
-## 🚨 Threat Hunting and Security Operations
+## ⚠️ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chuckworkstation/Threat-hunting-scenario-tor)**
 - **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
@@ -46,6 +53,8 @@ Each project is designed to enhance real-world skills and demonstrate the applic
 - **[Incident Response with Security Onion Cases](https://github.com/yourusername/security-onion-response)**  
 
 
+## 🔐 Identity and Access Management (IAM)  
+-**Installing Active Directory on Windows Server on Virtual Machine (Home Lab) 
 
 
 
@@ -73,7 +82,8 @@ Each project is designed to enhance real-world skills and demonstrate the applic
 - Mitre ATT&CK Navigator & DeTTECT
 - Azure AD
 - Python, Bash, PowerShell
-
+- Active Directory
+- okta
 ---
 
 ## 📫 Contact
