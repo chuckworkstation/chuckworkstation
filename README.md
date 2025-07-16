@@ -54,7 +54,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 
 
 ## 🔐 Identity and Access Management (IAM)  
-- Installing Active Directory on Windows Server on Virtual Machine (Home Lab) 
+- [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md) 
 
 
 
