@@ -29,7 +29,7 @@ Each project is designed to enhance real-world skills and demonstrate the applic
 Explore practical labs, automation scripts, and simulated enterprise environments built to reinforce knowledge and prepare for real-world roles.
 
 
-## 🛡️Vulnerability Management Projects
+# 🛡️Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/chuckworkstation/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
@@ -42,7 +42,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 - **[Mitre ATT&CK with Navigator & DeTTECT](https://github.com/yourusername/mitre-attck-navigator)**  
 - **[Create a File Integrity Monitor](https://github.com/yourusername/file-integrity-monitor)**  
 
-## ⚠️ Threat Hunting and Security Operations
+# ⚠️ Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chuckworkstation/Threat-hunting-scenario-tor)**
 - **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
@@ -53,7 +53,8 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 - **[Incident Response with Security Onion Cases](https://github.com/yourusername/security-onion-response)**  
 
 
-## 🔐 Identity and Access Management (IAM)  
+# 🔐 Identity and Access Management (IAM)  
+  ##   Active Directory
 - [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 1: Creating and setting up GPOs](https://github.com/chuckworkstation/Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 2): Applying and Testing GPOs](https://github.com/chuckworkstation/Applying-and-Testing-GPOs/blob/main/README.md)
