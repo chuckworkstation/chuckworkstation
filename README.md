@@ -20,13 +20,34 @@
 
 This repository highlights hands-on projects I've worked on, with a focus on:
 
-- 🛡️ Vulnerability Management  
+-  🔐 Identity and Access Management (IAM)  
 - ⚠️ Threat Hunting and Security Operations 
-- 🔐 Identity and Access Management (IAM)  
+-  🛡️ Vulnerability Management
 
 Each project is designed to enhance real-world skills and demonstrate the application of cybersecurity tools and techniques across different domains of defensive security. 
 
 Explore practical labs, automation scripts, and simulated enterprise environments built to reinforce knowledge and prepare for real-world roles.
+
+
+# 🔐 Identity and Access Management (IAM)  / IT support 
+  ##   Active Directory
+- [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
+- [Group Policy Management Home Lab (Part 1: Creating and setting up GPOs](https://github.com/chuckworkstation/Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs/blob/main/README.md)
+- [Group Policy Management Home Lab (Part 2): Applying and Testing GPOs](https://github.com/chuckworkstation/Applying-and-Testing-GPOs/blob/main/README.md)
+
+  
+
+# ⚠️ Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chuckworkstation/Threat-hunting-scenario-tor)**
+- **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
+- **[Configure Active Directory in Azure VM](https://github.com/yourusername/azure-ad-lab)**  
+- **[Real-Time Threat Detection with Microsoft Sentinel](https://github.com/yourusername/sentinel-threat-detection)**  
+- **[Sniffing Network Traffic with Wireshark/TCPdump](https://github.com/yourusername/network-traffic-analysis)**  
+- **[Security Onion Lab Setup](https://github.com/yourusername/security-onion-lab)**  
+- **[Incident Response with Security Onion Cases](https://github.com/yourusername/security-onion-response)**  
+
+
 
 
 # 🛡️Vulnerability Management Projects
@@ -40,25 +61,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 - **[Application Control with AppLocker](https://github.com/yourusername/applocker-control-demo)**  
 - **[Build a Simple REST API (Secure Coding Practice)](https://github.com/yourusername/rest-api-security-lab)**  
 - **[Mitre ATT&CK with Navigator & DeTTECT](https://github.com/yourusername/mitre-attck-navigator)**  
-- **[Create a File Integrity Monitor](https://github.com/yourusername/file-integrity-monitor)**  
-
-# ⚠️ Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chuckworkstation/Threat-hunting-scenario-tor)**
-- **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
-- **[Configure Active Directory in Azure VM](https://github.com/yourusername/azure-ad-lab)**  
-- **[Real-Time Threat Detection with Microsoft Sentinel](https://github.com/yourusername/sentinel-threat-detection)**  
-- **[Sniffing Network Traffic with Wireshark/TCPdump](https://github.com/yourusername/network-traffic-analysis)**  
-- **[Security Onion Lab Setup](https://github.com/yourusername/security-onion-lab)**  
-- **[Incident Response with Security Onion Cases](https://github.com/yourusername/security-onion-response)**  
-
-
-# 🔐 Identity and Access Management (IAM)  / IT support 
-  ##   Active Directory
-- [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
-- [Group Policy Management Home Lab (Part 1: Creating and setting up GPOs](https://github.com/chuckworkstation/Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs/blob/main/README.md)
-- [Group Policy Management Home Lab (Part 2): Applying and Testing GPOs](https://github.com/chuckworkstation/Applying-and-Testing-GPOs/blob/main/README.md)
-
+- **[Create a File Integrity Monitor](https://github.com/yourusername/file-integrity-monitor)**
 
 
 
