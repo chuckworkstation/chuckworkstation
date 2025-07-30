@@ -45,8 +45,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 # ⚠️ Threat Hunting and Security Operations
 
 
-- **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
-- **[Configure Active Directory in Azure VM](https://github.com/yourusername/azure-ad-lab)**  
+- **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**   
 - **[Real-Time Threat Detection with Microsoft Sentinel](https://github.com/yourusername/sentinel-threat-detection)**  
 - **[Sniffing Network Traffic with Wireshark/TCPdump](https://github.com/yourusername/network-traffic-analysis)**  
 - **[Security Onion Lab Setup](https://github.com/yourusername/security-onion-lab)**  
