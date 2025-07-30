@@ -44,7 +44,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 
 # ⚠️ Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/chuckworkstation/Threat-hunting-scenario-tor)**
+
 - **[Building a Cyber Security Lab From Scratch](https://github.com/yourusername/cyber-lab-setup)**  
 - **[Configure Active Directory in Azure VM](https://github.com/yourusername/azure-ad-lab)**  
 - **[Real-Time Threat Detection with Microsoft Sentinel](https://github.com/yourusername/sentinel-threat-detection)**  
