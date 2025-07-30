@@ -34,6 +34,7 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 - [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 1: Creating and setting up GPOs](https://github.com/chuckworkstation/Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 2): Applying and Testing GPOs](https://github.com/chuckworkstation/Applying-and-Testing-GPOs/blob/main/README.md)
+- [Group Policy Management Homelab (Part 3) : Computer Domain Join](https://github.com/chuckworkstation/Applying-and-Testing-GPOs-Computer-Domain-Join)
 
   
 
