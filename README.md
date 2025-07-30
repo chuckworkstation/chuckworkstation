@@ -30,11 +30,15 @@ Explore practical labs, automation scripts, and simulated enterprise environment
 
 
 # 🔐 Identity and Access Management (IAM)  / IT support 
-  ##   Active Directory
+  ##   Active Directory(ON-PREM)
 - [Installing Active Directory on Windows Server on Virtual Machine (Home Lab)](https://github.com/chuckworkstation/Active-Directory-Home-Lab/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 1: Creating and setting up GPOs](https://github.com/chuckworkstation/Goup-policy-Management-Home-Lab-Creating-and-setting-up-GPOs/blob/main/README.md)
 - [Group Policy Management Home Lab (Part 2): Applying and Testing GPOs](https://github.com/chuckworkstation/Applying-and-Testing-GPOs/blob/main/README.md)
 - [Group Policy Management Homelab (Part 3) : Computer Domain Join](https://github.com/chuckworkstation/Applying-and-Testing-GPOs-Computer-Domain-Join)
+
+ ##  Microsoft Entra ID (CLOUD)
+ - [Simulate Entra ID User Sync with Active Directory Domain Control(Part 1)](https://github.com/chuckworkstation/User-Synchronization-in-Entra-ID-with-Active-Directory/blob/main/README.md)
+ - [Simulate Entra ID User Sync with Active Directory Domain Control(Part 2)](https://github.com/chuckworkstation/simulate-entra-id-user-sync-with-active-directory-Domain-control-part-2/blob/main/README.md)
 
   
 
